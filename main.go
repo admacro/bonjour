@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/admacro/bonjour/salut"
 	"math/rand"
 	"time"
+
+	"github.com/admacro/bonjour/salut"
 )
 
 func main() {
