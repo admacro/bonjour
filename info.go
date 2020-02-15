@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(biz.Info())
 	fmt.Println(p1.Info())
 	fmt.Println(p2.Info())
+
+	fmt.Println(biz.AllInfo())
 }

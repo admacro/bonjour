@@ -1,4 +1,6 @@
-package main
+// package main
+
+package biz // make biz package importable in allinfo.go temporarily
 
 import (
 	"fmt"
